@@ -14,3 +14,5 @@ def generate():
 
         if str(validate(cpf_txt)) == "valid":
             return cpf_txt
+
+print(generate())
