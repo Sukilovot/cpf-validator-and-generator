@@ -8,9 +8,11 @@ git clone https://github.com/Sukilovot/cpf-validator-and-generator cpfgen
 # run generator
 
 cd cpfgen
+<br>
 python generator.py
 
 # run validator
 
 cd cpfgen
+<br>
 python validator.py
