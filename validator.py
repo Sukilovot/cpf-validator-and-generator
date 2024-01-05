@@ -15,3 +15,5 @@ def validate(cpf):
 		if int(cpf_num) == num:
 			return f"valid"
 	return f"not valid"
+
+validate(argv[1])
